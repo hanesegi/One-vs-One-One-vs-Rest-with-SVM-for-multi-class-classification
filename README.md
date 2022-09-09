@@ -1,0 +1,1 @@
+# One-vs-One-One-vs-Rest-with-SVM-for-multi-class-classification
